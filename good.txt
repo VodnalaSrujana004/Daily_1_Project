@@ -1,2 +1,3 @@
 something great wanna build
 with ai + web + cyber
+also devops
