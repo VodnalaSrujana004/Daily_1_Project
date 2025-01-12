@@ -15,3 +15,4 @@ Full stack webinar -- tdy we need to talk to sir,  about event how it could be -
 time table
 i should make 
 1hr for posting content,
+1hr for practicing dsa and streaks
