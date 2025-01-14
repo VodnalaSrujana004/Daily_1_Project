@@ -18,3 +18,356 @@ i should make
 1hr for practicing dsa and streaks
 1hr for gate
 2hr for subject reading
+----------------------------------------------------------------
+
+Ultimate LeetCode Resource Guide for Beginners to Advanced Learners
+
+---
+
+1. Beginner-Friendly Resources  
+   • Topic Wise Problems for Beginners  
+     Link: https://resourcesandcarrier.online/aVsDct  
+
+---
+
+2. General Resources and Links  
+   • Important and Useful Links from All Over LeetCode  
+     Link: https://resourcesandcarrier.online/pm7HAK  
+
+   • Links to Some Great Posts in Study Guide  
+     Link: https://resourcesandcarrier.online/TGNkRY  
+
+   • LeetCode Advised Problems Sorted by Topics and Directions  
+     Link: https://resourcesandcarrier.online/upz9F1  
+
+   • Compilation | LeetCode Lists & Resources  
+     Link: https://resourcesandcarrier.online/pSUKtQ
+
+3. Interview Preparation  
+   • TOPICS WHICH YOU CAN'T SKIP (Interview Preparation | Study Plan)  
+     Link: https://resourcesandcarrier.online/gfhmzl  
+
+   • Most Important Topics for Interviews | CS Core Topics  
+     Link: https://resourcesandcarrier.online/sEfzLc  
+
+   • Blind 75 LeetCode Questions  
+     Link: https://resourcesandcarrier.online/MTnW9l  
+
+---
+
+4. Advanced Topics and Resources  
+   • Helpful List of LeetCode Posts on System Design  
+     Link: https://resourcesandcarrier.online/kTahIH  
+
+   • Compiling Important Topics of Data Structures and Algorithm  
+     Link: https://resourcesandcarrier.online/ne3nF8
+
+-----------------------------------------------------------------------------------------
+3 MUST APPLY Campus programs for Students 🚩🚀🚀
+
+✅ Microsoft Student partner program
+https://mvp.microsoft.com/studentambassadors
+
+✅ Github Campus Expert Program
+https://education.github.com/experts
+
+✅ Google Developer Club
+https://developers.google.com/community/gdsc
+----------------------------------------------------------------------------------------
+All links 🔗 
+
+1.programming languages
+
+https://coddy.tech
+
+2.three ethical hacking course
+
+Ethical Hacking Course
+
+Ethical hacking for beginners
+
+https://www.simplilearn.com/ethical-hacking-course-free-beginners-skillup
+
+Introduction to ethical hacking 
+
+https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking
+
+Ibm cybersecurity analyst
+
+https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
+
+3. 400+ DSA sheet
+
+https://docs.google.com/spreadsheets/u/0/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/htmlview#gid=1377915986
+
+4. All in one resources drive link 🔗 
+👇👇
+
+https://drive.google.com/drive/folders/1sUxxZbiC4Zg4UYRkwFbRbal1Qe9Gjsia?usp=drive_link
+
+5. All UI elements link
+
+codepen.io/singhimalaya/details/EdVzNL
+
+codepen.io/vineethtrv/pen/NWxZqMM
+
+codepen.io/designcouch/pen/obvKxm
+
+codepen.io/Mihnutzen/pen/VazdvY
+
+codepen.io/pizza3/pen/bGVPZvo
+
+6. Free course link
+
+https://github.com/JoseDeFreitas/awesome-youtubers
+
+7. All in one course website link
+
+https://freecoursesite.com
+
+8. The Complete Ethical Hacking Course drive link
+👇👇👇
+
+https://techhacksai.blogspot.com/2024/02/ethical-hacking-free-course-scroll-down.html?m=1
+
+9. hindi course website link
+
+https://data-flair.training/
+
+10. animated icon website link
+
+lordicon.com
+
+11. Free course App name
+👇👇👇
+Infosys springboard
+
+12. 3 best remote job websites
+
+https://weworkremotely.com/
+
+https://remote.co/
+
+https://www.flexjobs.com/
+
+13. leedcode premium extension link 🔗 
+
+Open it in your desktop 🖥️ 
+
+https://chrome.google.com/webstore/detail/cracktech-leetcode-compan/fmbicfmfmangckllfaomfkhdankgapfk
+
+14. Here’s your frontend website link
+
+10015.io
+
+15. Meta front-end back-end course Link
+👇👇👇
+
+https://bit.ly/Metacourse
+
+16. Cheatsheet of programming language 
+
+https://quickref.me/index.h
+
+17. Road map website
+
+https://roadmap.sh/
+
+18. Internship website link
+
+https://www.codsoft.in/
+
+19. Video translator
+👇👇👇
+
+https://virbo.wondershare.com/app/video-translate/
+
+20. Free UI elements
+
+https://uiverse.io
+
+21. 50 Projects to master frontend
+👇👇👇
+
+https://drive.google.com/drive/folders/1ktHSSx2fPYZtk0lBHjXJ7tXESAGEgrLL
+----------------------------------------------------------------------------------------------------
+20+ free learning sites to level up your skills and knowledge.....!
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+
+HTML
+👇👇👇👇👇👇
+http://w3schools.com
+
+CSS
+👇👇👇👇👇👇
+http://css-tricks.com
+
+UI/UX
+👇👇👇👇👇👇
+http://hackdesign.org
+
+JavaScript
+👇👇👇👇👇👇
+http://scrimba.com
+
+Blockchain
+👇👇👇👇👇👇
+http://cryptozombies.io
+
+React
+👇👇👇👇👇👇
+http://scrimba.com
+
+SQL
+👇👇👇👇👇👇
+http://sqlbolt.com
+
+Python
+👇👇👇👇👇👇
+http://inprogrammer.com
+
+Vue
+👇👇👇👇👇👇
+http://vueschool.io
+
+DSA Visuals
+👇👇👇👇👇👇
+http://visualgo.net
+
+Git
+👇👇👇👇👇👇
+http://learnGitBranching.js.org
+
+API
+👇👇👇👇👇👇
+http://freecodecamp.org
+
+Java
+👇👇👇👇👇👇
+http://javatpoint.com
+
+Web3
+👇👇👇👇👇👇
+http://learnweb3.io
+
+Vue
+👇👇👇👇👇👇
+http://Vueschool.io
+
+DSA Visuals
+👇👇👇👇👇👇
+http://visualgo.net
+
+Git
+👇👇👇👇👇👇
+http://LearnGitBranching.js.org
+
+API
+👇👇👇👇👇👇
+http://Freecodecamp.org
+
+Java
+👇👇👇👇👇👇
+http://Javatpoint.com
+
+Web3
+👇👇👇👇👇👇
+http://Learnweb3.io
+
+Tailwind
+👇👇👇👇👇👇
+http://Scrimba.com
+
+Nextjs
+👇👇👇👇👇👇
+http://Nextjs.org/learn
+
+GO
+👇👇👇👇👇👇
+http://Learn-golang.org
+
+Rust-
+👇👇👇👇👇👇
+http://Rust-lang.org/learn
+
+AWS
+👇👇👇👇👇👇
+http://aws.amazon.com/training
+
+DevOps-
+👇👇👇👇👇👇
+http://Edx.org/learn/devops
+----------------------------------------------------------------------------------------------
+Three courses of Ethical Hacking....!
+👇👇👇👇👇👇👇👇👇👇👇👇
+
+
+1)  Ethical hacking for beginners
+👇👇
+https://www.simplilearn.com/ethical-hacking-course-free-beginners-skillup
+
+2) Introduction to ethical hacking 
+👇👇
+https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking
+
+3) Ibm cybersecurity analyst
+👇👇
+https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
+---------------------------------------------------------------------------------------------------
+200+ projects of Html Css And JavaScript .....!
+
+👇👇👇👇👇👇👇👇
+
+
+
+https://www.codewithrandom.com/javascript-projects/?mcp_token=eyJwaWQiOjkwNDYyMSwic2lkIjo0MTMwNzgzMDIsImF4IjoiYzlkMmJmNjlkODg1NzIwNjQ5ZWVkODYxOGVhYmNiODEiLCJ0cyI6MTcxMjc1NTIxNCwiZXhwIjoxNzE1MTc0NDE0fQ.jsslKqg6XCLB_60PSISB1Pk3IC1DMFjYJ_uTqFaIIVw
+-----------------------------------------------------------------------------------------------------
+DSA sheet Link 🔗.   Interview Questions 
+
+https://docs.google.com/spreadsheets/u/0/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/htmlview#gid=1377915986
+------------------------------------------------------------------------------------------------------
+50 projects to master front end ....!
+
+
+https://drive.google.com/drive/u/0/mobile/folders/1ktHSSx2fPYZtk0lBHjXJ7tXESAGEgrLL
+Any Courses from top Universities (free).....!
+👇👇👇
+https://www.classcentral.com/
+-------------------------------------------------------------------------------------------------
+🚀 Learn DSA with C++ for Free! 🚀
+
+Boost your coding skills with FREE Data Structures and Algorithms (DSA) course using C++. Perfect for beginners and intermediates, this course covers essential data structures, algorithms, and problem-solving techniques to ace coding interviews and excel in tech careers. Enjoy hands-on learning, expert guidance, and a supportive community. 
+
+Link - https://mega.nz/folder/L7AT1S4K#rpAyw8w9CKt9ntZdZmNJgw
+---------------------------------------------------------------------------------------------
+
+🚀 Don't waste time solving random 3000 DSA QUESTIONS, 
+
+Instead Let's Go For This 🔥
+
+
+https://docs.google.com/spreadsheets/u/0/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/htmlview#gid=1377915986
+----------------------------------------------------------------------------------------------------
+Best DSA Sheets to Crack any Coding Interviews 🚀
+
+1. Striver DSA Sheet:
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+2. Apna College DSA Sheet:
+https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit?gid=0#gid=0
+
+3. DSA Sheet by Arsh:
+https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/edit?gid=0#gid=0
+
+4. Fraz DSA Sheet:
+https://learnyard.com/practice/dsa
+
+5. Love Babbar DSA Sheet:
+https://docs.google.com/spreadsheets/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/edit?gid=1773184282#gid=1773184282
+
+6. NeetCode 150 DSA Sheet:
+https://neetcode.io/practice
+
+7. AlgoPrep 151 DSA Sheet:
+https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit?gid=0#gid=0
+---------------------------------------------------------------------------------------------------------------------
