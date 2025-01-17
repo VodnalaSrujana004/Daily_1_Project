@@ -19,3 +19,5 @@ i should do it
 registered the feb 15th devops event
 
 pull req and merginging  + gate + git and github commands
+
+weekly coding contest- codechef, leetcode, hackerrank
