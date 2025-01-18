@@ -21,3 +21,5 @@ registered the feb 15th devops event
 pull req and merginging  + gate + git and github commands
 
 weekly coding contest- codechef, leetcode, hackerrank
+-----------------------------------------
+today i need to finish 3 chapters
