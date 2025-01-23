@@ -27,7 +27,7 @@ tdy the skill development program has been started(20th), applied for some inter
 i need not waste my time 
 .. i must do my duty
 --------------------------------------
-🌐 Comprehensive Tech Learning Resources 🚀  
+###🌐 Comprehensive Tech Learning Resources 🚀  
 Explore Free Learning Materials on AWS, DevOps, Azure, and Kubernetes!
 
 1. IT AWS  
