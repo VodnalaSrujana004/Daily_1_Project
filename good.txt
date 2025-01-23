@@ -26,4 +26,28 @@ weekly coding contest- codechef, leetcode, hackerrank
 tdy the skill development program has been started(20th), applied for some internships on aicte, 
 i need not waste my time 
 .. i must do my duty
+--------------------------------------
+🌐 Comprehensive Tech Learning Resources 🚀  
+Explore Free Learning Materials on AWS, DevOps, Azure, and Kubernetes!
 
+1. IT AWS  
+   📂 IT AWS Resources: https://drive.google.com/drive/folders/17Q3Tf3PEfmq_cGM97brqO3oCR0EPLFC8  
+   Deep dive into AWS services, cloud fundamentals, and advanced solutions for AWS enthusiasts.
+
+2. IT DevOps
+   📂 IT DevOps Resources: https://drive.google.com/drive/folders/1q41_DOSmVDL__yZYs7zNUHc8Z1heLZWV  
+   Master the DevOps lifecycle, CI/CD pipelines, and containerization with these insightful materials.
+
+3. Azure DevOps  
+   📂 Azure DevOps Resources: https://drive.google.com/drive/folders/1N9dts3Iov8RGsMtZgD_H5gcdq3zPlCti  
+   Learn Azure DevOps tools and services, from Pipelines to Repos, and take your skills to the cloud.
+
+4. AWS Fundamentals for Beginners  
+   📂 AWS Fundamentals for Beginners: https://drive.google.com/drive/folders/1dF44y1XERpo_Ny6oCCW_8SPj3TZt1iUu  
+   Beginner-friendly tutorials to help you start your journey with AWS services and cloud technologies.
+
+5. Kubernetes Deep Dive
+   📂 Kubernetes Deep Dive: https://drive.google.com/drive/folders/12YYXSGQx-V9c-wnYa7SojjkwN1bXLEGW  
+   Comprehensive guide for Kubernetes architecture, scaling, and orchestration of containerized applications.
+
+📚 Perfect for tech enthusiasts, cloud developers, and anyone eager to master cutting-edge technologies! 🌟
