@@ -387,3 +387,5 @@ https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRL
 5. Kubernetes Deep Dive
    📂 Kubernetes Deep Dive: https://drive.google.com/drive/folders/12YYXSGQx-V9c-wnYa7SojjkwN1bXLEGW  
    Comprehensive guide for Kubernetes architecture, scaling, and orchestration of containerized applications.
+-------------------------------------------------------------------------------------------------
+
