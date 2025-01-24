@@ -367,3 +367,23 @@ https://neetcode.io/practice
 7. AlgoPrep 151 DSA Sheet:
 https://docs.google.com/spreadsheets/d/1kyHfGGaLTzWspcqMUUS5Httmip7t8LJB0P-uPrRLGos/edit?gid=0#gid=0
 ---------------------------------------------------------------------------------------------------------------------
+
+1. IT AWS  
+   📂 IT AWS Resources: https://drive.google.com/drive/folders/17Q3Tf3PEfmq_cGM97brqO3oCR0EPLFC8  
+   Deep dive into AWS services, cloud fundamentals, and advanced solutions for AWS enthusiasts.
+
+2. IT DevOps
+   📂 IT DevOps Resources: https://drive.google.com/drive/folders/1q41_DOSmVDL__yZYs7zNUHc8Z1heLZWV  
+   Master the DevOps lifecycle, CI/CD pipelines, and containerization with these insightful materials.
+
+3. Azure DevOps  
+   📂 Azure DevOps Resources: https://drive.google.com/drive/folders/1N9dts3Iov8RGsMtZgD_H5gcdq3zPlCti  
+   Learn Azure DevOps tools and services, from Pipelines to Repos, and take your skills to the cloud.
+
+4. AWS Fundamentals for Beginners  
+   📂 AWS Fundamentals for Beginners: https://drive.google.com/drive/folders/1dF44y1XERpo_Ny6oCCW_8SPj3TZt1iUu  
+   Beginner-friendly tutorials to help you start your journey with AWS services and cloud technologies.
+
+5. Kubernetes Deep Dive
+   📂 Kubernetes Deep Dive: https://drive.google.com/drive/folders/12YYXSGQx-V9c-wnYa7SojjkwN1bXLEGW  
+   Comprehensive guide for Kubernetes architecture, scaling, and orchestration of containerized applications.
