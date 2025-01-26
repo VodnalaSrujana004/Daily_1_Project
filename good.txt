@@ -52,3 +52,32 @@ Explore Free Learning Materials on AWS, DevOps, Azure, and Kubernetes!
 
 📚 Perfect for tech enthusiasts, cloud developers, and anyone eager to master cutting-edge technologies! 🌟
 ------------------------------------------------------------------------------------
+🚀 Courses Offered by Microsoft!!
+Discover the following FREE Courses, which also provide certifications. Access and go through these interesting courses to enhance your skills! Check them out:
+
+🔹 Introduction to Azure AI Foundry
+https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-ai-studio
+
+🔹 Fundamentals of Machine Learning
+https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning
+
+🔹 Fundamentals of Generative AI
+https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai
+
+🔹 Microsoft Azure Fundamentals: Describe Cloud Concepts
+https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts
+
+🔹 Describe Cloud Computing
+https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute
+
+🔹 Fundamental AI Concepts
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals
+
+🔹 Introduction to Microsoft 365 Copilot
+https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot
+
+🔹 Microsoft Azure AI Fundamentals: AI Overview
+https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure
+
+🔹 Describe Microsoft Security Copilot
+https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started
